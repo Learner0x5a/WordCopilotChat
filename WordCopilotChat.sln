@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCopilotChat", "WordCopilotChat\WordCopilotChat.csproj", "{450EC7AE-55B3-42E1-8B05-413D2623736E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WordCopilotChat-win-x64-Setup", "WordCopilotChat-win-x64-Setup\WordCopilotChat-win-x64-Setup.vdproj", "{703FF0F0-C8A3-D511-79C7-6D878F15D8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{450EC7AE-55B3-42E1-8B05-413D2623736E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450EC7AE-55B3-42E1-8B05-413D2623736E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450EC7AE-55B3-42E1-8B05-413D2623736E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450EC7AE-55B3-42E1-8B05-413D2623736E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{703FF0F0-C8A3-D511-79C7-6D878F15D8F2}.Debug|Any CPU.ActiveCfg = Debug
+		{703FF0F0-C8A3-D511-79C7-6D878F15D8F2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C1CE78-72DA-4993-A5BE-77AE8D26E156}
+	EndGlobalSection
+EndGlobal

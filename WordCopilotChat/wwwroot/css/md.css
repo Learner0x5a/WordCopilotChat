@@ -1,0 +1,67 @@
+/* 公式容器 */
+.equation-container {
+    margin: 16px 0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* 公式提示文字 */
+.formula-tip {
+    margin-left: 8px;
+    font-size: 12px;
+    color: #6c757d;
+    font-weight: normal;
+}
+
+/* 公式样式 */
+.math-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+    padding: 8px 12px;
+    color: #495057;
+    border: 1px solid #e9ecef;
+    border-radius: 6px 6px 0 0;
+    margin-bottom: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif;
+    font-size: 13px;
+}
+
+    .math-toolbar p {
+        margin: 0;
+        font-weight: 500;
+    }
+
+.copy-math-button {
+    background-color: #65b0d3;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+    .copy-math-button:hover {
+        background-color: #4a90c3;
+    }
+
+/* 公式容器样式 */
+.MathJax_Display {
+    margin: 0 !important;
+    padding: 16px;
+    background-color: #f8f9fc;
+    border: 1px solid #e9ecef;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+}
+
+/* 行内公式样式 */
+.MathJax {
+    border-radius: 4px;
+    padding: 0 4px;
+}
