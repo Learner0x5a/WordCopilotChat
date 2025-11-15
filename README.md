@@ -31,28 +31,28 @@
 以下为部分演示
 
 #### 1. 欢迎语插入
-![1.欢迎语插入](docs/demos/1.欢迎语插入.gif)
+![1.欢迎语插入](WordCopilotChat/docs/demos/1.欢迎语插入.gif)
 
 #### 2. 导入模型
-![2.导入模型](docs/demos/2.导入模型.gif)
+![2.导入模型](WordCopilotChat/docs/demos/2.导入模型.gif)
 
 #### 3. 欢迎语和提示词
-![3.欢迎语和提示词](docs/demos/3.欢迎语和提示词.gif)
+![3.欢迎语和提示词](WordCopilotChat/docs/demos/3.欢迎语和提示词.gif)
 
 #### 4. 文档上传和解析
-![4.文档上传和解析](docs/demos/4.文档上传和解析.gif)
+![4.文档上传和解析](WordCopilotChat/docs/demos/4.文档上传和解析.gif)
 
 #### 5. 文档引用
-![5.文档引用](docs/demos/5.文档引用.gif)
+![5.文档引用](WordCopilotChat/docs/demos/5.文档引用.gif)
 
 #### 6. 文档引用
-![6.文档引用](docs/demos/6.文档引用.gif)
+![6.文档引用](WordCopilotChat/docs/demos/6.文档引用.gif)
 
 #### 7. Agent插入
-![7.Agent插入](docs/demos/7.Agent插入.gif)
+![7.Agent插入](WordCopilotChat/docs/demos/7.Agent插入.gif)
 
 #### 8. Agent查询
-![8.Agent查询](docs/demos/8.Agent查询.gif)
+![8.Agent查询](WordCopilotChat/docs/demos/8.Agent查询.gif)
 
 ---
 
@@ -181,6 +181,6 @@ WordCopilotChat/
 
 ### 作者微信
 > 添加时请备注“WordCopilot”，仅严重问题或合作沟通  
-![作者微信](docs/wechat.png)
+![作者微信](WordCopilotChat/docs/wechat.png)
 
 
