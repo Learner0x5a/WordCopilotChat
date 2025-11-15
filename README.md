@@ -63,6 +63,7 @@
 ### 环境要求
 - 操作系统：Windows 7 Service Pack 1 及以上（Windows 10/11 推荐）。
 - Microsoft Word：最低支持 2013（建议使用 2019 及以上版本；在 Word 2013 中公式插入可能存在兼容性问题）。
+- WPS 专业版：兼容 WPS 2016 及以后专业版的基础功能（Chat 模式、渲染、插入）；但 Agent 模式兼容性目前较差，部分工具调用可能无法稳定运行。
 - .NET Framework：必须为 4.8 及以上版本（不支持低于 4.8）。下载地址：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48
 - Microsoft Edge WebView2 Runtime：
   - Windows 7：最后支持版本为 109（官方已不再提供下载页面，可在第三方渠道获取对应安装包）。
