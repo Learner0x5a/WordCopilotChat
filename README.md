@@ -319,7 +319,7 @@ A: 作者会尽最大努力持续迭代，除非出现更优秀的替代开源�
 
 ### 作者微信
 > 添加时请备注“WordCopilot”，仅严重问题或合作沟通  
-![作者微信](docs/wechat.png)
+![作者微信](WordCopilotChat/docs/wechat.png)
 
 ## 📌 最后说明
 
