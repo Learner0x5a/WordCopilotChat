@@ -32,19 +32,11 @@
 - 模型适配
   - 已适配国产模型：Qwen、DeepSeek、Kimi、ChatGLM、MiniMax 的最新旗舰模型；支持自定义 BaseUrl / ApiKey / 参数
 
-#### OpenAI API配置注意事项
-
-不同于通过OpenAI SDK（例如Python的from openai import OpenAI）进行模型访问，本项目是直接通过HTTP访问，因此base_url有所不同。
-
-以Qwen为例，通过OpenAI SDK进行访问，base_url应当设置为`https://dashscope.aliyuncs.com/compatible-mode/v1`，
-而本项目是通过HTTP访问，base_url应当设置为`https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions`
-
-
 ### ⚙️ 模型配置注意事项
 
 #### 已适配的国产模型
 
-- **DeepSeek**、**Kimi**、**ChatGLM**、**MiniMax** 的最新旗舰模型（2025-11-15）
+- **Qwen**、**DeepSeek**、**Kimi**、**ChatGLM**、**MiniMax** 的最新旗舰模型（2025-11-15）
 - 支持自定义 API 地址、ApiKey、请求参数
 - 也可使用其他兼容 OpenAI API 格式的自定义模型接口
 
